@@ -1,0 +1,1 @@
+keytool -list -v -keystore "Key store path" -alias <key store name>
